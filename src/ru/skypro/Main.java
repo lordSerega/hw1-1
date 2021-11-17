@@ -8,6 +8,6 @@ public class Main {
         int intVariable = 9898;
         long longVariable = 200_000L;
         float floatVariable = 10.0F;
-        double doubleVariable = 69.69D;
+        double doubleVariable = 69.67D;
     }
 }
